@@ -7,3 +7,7 @@ p{
 .serif{
       font-family: "Georgia", Times, serif;
 }
+#example1 {
+  background: url(download.jpeg) right bottom no-repeat, url(download (1).jpeg) left top repeat;
+  padding: 15px;
+}
