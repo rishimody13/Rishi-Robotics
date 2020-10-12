@@ -8,6 +8,6 @@ p{
       font-family: "Georgia", Times, serif;
 }
 #example1 {
-  background: url(download.jpg) right bottom no-repeat, url(robot.jpg) left top repeat;
+  background: url(download.jpg) right bottom no-repeat, url(robot.jpg) left top no-repeat;
   padding: 15px;
 }
