@@ -13,5 +13,8 @@ p{
   background-size: contain, contain;
   background-repeat: no-repeat, no-repeat;
 }
-
+#example1 {
+  background: url(download.jpg) left top no-repeat, url(robot.jpg) right bottom no-repeat;
+  background-size: contain, contain;
+}
 
