@@ -14,13 +14,13 @@ p{
   background-size: contain, contain;
 }
 
-#bkgrndimage {
-  border: 1px solid black;
+
+.div1 {
+  border: 1px solid "black";
   height: 120px;
   width: 150px;
-  background-image: url('roboticstoday.png');
+  background: url(roboticstoday.png);
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: contain;
 }
 
