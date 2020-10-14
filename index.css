@@ -14,7 +14,7 @@ p{
   background-size: contain, contain;
 }
 
-body {
+#bkgrndimage {
   background-image: url('roboticstoday.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
