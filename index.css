@@ -8,13 +8,15 @@ p{
       font-family: "Georgia", Times, serif;
 }
 
-#example1 {
-  background: url(download.jpg), url(robot.jpg);
-  background-size: contain, contain;
-  background-repeat: no-repeat, no-repeat;
-}
+
 #example1 {
   background: url(download.jpg) left top no-repeat, url(robot.jpg) right bottom no-repeat;
   background-size: contain, contain;
 }
+
+body {
+  background-image: url('roboticstoday.png');
+  background-repeat: no-repeat;
+}
+
 
