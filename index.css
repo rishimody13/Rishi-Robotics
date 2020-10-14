@@ -15,10 +15,15 @@ p{
 }
 
 #bkgrndimage {
+  border: 1px solid black;
+  height: 120px;
+  width: 150px;
   background-image: url('roboticstoday.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: contain;
 }
+
+
 
 
