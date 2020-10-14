@@ -1,11 +1,7 @@
-p{
-      color: blue;
-      font-size: 20px;
-      
-           
-   }
-.serif{
+
+#tableElement{
       font-family: "Georgia", Times, serif;
+      color : blue;
 }
 
 
