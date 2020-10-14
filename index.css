@@ -18,7 +18,7 @@ p{
   background-image: url('roboticstoday.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: contain;
 }
 
 
